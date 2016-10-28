@@ -1,15 +1,12 @@
 {
-  "name": "Helioprism",
+  "name": "new",
   "private": true,
   "scripts": {
     "start": "meteor run"
   },
   "dependencies": {
-    "@angular/platform-browser-dynamic": "^2.0.0-rc.4",
-    "angular2-meteor": "^0.5.6",
-    "angular2-meteor-auto-bootstrap": "^0.5.6",
-    "angular2-meteor-polyfills": "^0.1.1",
     "meteor-node-stubs": "~0.2.0",
-    "reflect-metadata": "^0.1.3"
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2"
   }
 }

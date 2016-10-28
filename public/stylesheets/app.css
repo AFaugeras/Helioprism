@@ -1,0 +1,16 @@
+html {
+    background-color: #eee;
+}
+
+body {
+    background-color: transparent!important;
+}
+
+app {
+    padding:10px;
+    display: block;
+}
+
+app > div {
+    background-color: white;
+}
